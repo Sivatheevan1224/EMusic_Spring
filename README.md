@@ -1,4 +1,4 @@
-# Activity 08 - E-Music Web Application
+# E-Music Web Application
 
 A Spring Boot web application for managing and viewing music albums with user authentication.
 
