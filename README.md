@@ -338,7 +338,9 @@ This project is part of an educational activity (Activity 08) for APT coursework
 
 ## 👨‍💻 Author
 
-**APT Student**
+**Sivatheevan**
+- GitHub: [@Sivatheevan1224](https://github.com/Sivatheevan1224)
+- Email: sivatheevan1224@gmail.com
 - Course: Advanced Programming Techniques
 - Activity: Activity 08
 - Academic Year: 2025-2026
